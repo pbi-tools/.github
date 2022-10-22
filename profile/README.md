@@ -12,6 +12,7 @@
 
 | Repository | Features | Created | Dataset | Notes |
 | --- | --- | --- | --- | --- |
+| [incremental-refresh-demo](https://github.com/pbi-tools/incremental-refresh-demo) | Dataset Deployment, Incremental Refresh, Cloud Credentials (Basic) | 17-Oct-2022 | [NYC Taxi Yellow](https://learn.microsoft.com/azure/open-datasets/dataset-taxi-yellow) | [1.0.0-rc.2+preview.5 Release](https://github.com/pbi-tools/pbi-tools/releases/tag/1.0.0-rc.2%2Bpreview.5) |
 | [contoso-sql-dataset-devops](https://github.com/pbi-tools/contoso-sql-dataset-devops) | Dataset Deployment, SqlScripts | 20-Jul-2022 | [Contoso](https://www.sqlbi.com/tools/contoso-data-generator/) | Azure SQL Source |
 | [dataset-devops-demo](https://github.com/pbi-tools/dataset-devops-demo) | Dataset Deployment, Refresh, Deploy-Embedded-Report | 26-May-2022 | [Introducing Calculation Groups](https://www.sqlbi.com/articles/introducing-calculation-groups/) | [PBIMCR Session](https://www.meetup.com/pbimcr/events/vsvtrsydchbjc/) |
 | [contoso-sales-model](https://github.com/pbi-tools/contoso-sales-model) | Dataset Compile | 24-May-2022 | [Introducing Calculation Groups](https://www.sqlbi.com/articles/introducing-calculation-groups/) | HTTP data source (GitHub) |
