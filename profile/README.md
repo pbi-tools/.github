@@ -1,6 +1,6 @@
 # Welcome to pbi-tools
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pbi-tools/pbi-tools?sort=semver)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pbi-tools/pbi-tools?include_prereleases)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/pbi-tools/pbi-tools/total?style=flat-square)
 
