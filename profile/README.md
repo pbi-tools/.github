@@ -1,4 +1,4 @@
-# Welcome to pbi-tools
+# Welcome to [pbi-tools](https://github.com/pbi-tools/pbi-tools)
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pbi-tools/pbi-tools?include_prereleases)
 
